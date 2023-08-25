@@ -1,5 +1,4 @@
-# Employee-management-system-laravel
-# Project for Marsa Maroc, during my internship
+# Employee-management-system-laravel (Project for Marsa Maroc, during my internship)
 A basic Laravel project is an employee management system project in PHP laravel. CRUD operation can be performed here. You can also manage the retention of employee records by tracking their department and divisions in this project.
 # Composer install
 cd Employee-management-system-laravel composer install
